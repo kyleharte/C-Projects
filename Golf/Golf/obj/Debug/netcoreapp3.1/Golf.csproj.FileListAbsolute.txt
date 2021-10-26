@@ -1,0 +1,14 @@
+Z:\C#\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.exe
+Z:\C#\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.deps.json
+Z:\C#\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.runtimeconfig.json
+Z:\C#\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.runtimeconfig.dev.json
+Z:\C#\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.dll
+Z:\C#\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.pdb
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.csproj.AssemblyReference.cache
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.AssemblyInfoInputs.cache
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.AssemblyInfo.cs
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.csproj.CoreCompileInputs.cache
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.dll
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.pdb
+Z:\C#\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.genruntimeconfig.cache

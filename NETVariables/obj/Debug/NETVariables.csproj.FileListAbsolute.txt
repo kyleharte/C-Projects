@@ -1,0 +1,9 @@
+E:\Programming\SSD\C#\NETVariables\bin\Debug\NETVariables.exe.config
+E:\Programming\SSD\C#\NETVariables\bin\Debug\NETVariables.exe
+E:\Programming\SSD\C#\NETVariables\bin\Debug\NETVariables.pdb
+E:\Programming\SSD\C#\NETVariables\obj\Debug\NETVariables.Form1.resources
+E:\Programming\SSD\C#\NETVariables\obj\Debug\NETVariables.Properties.Resources.resources
+E:\Programming\SSD\C#\NETVariables\obj\Debug\NETVariables.csproj.GenerateResource.cache
+E:\Programming\SSD\C#\NETVariables\obj\Debug\NETVariables.csproj.CoreCompileInputs.cache
+E:\Programming\SSD\C#\NETVariables\obj\Debug\NETVariables.exe
+E:\Programming\SSD\C#\NETVariables\obj\Debug\NETVariables.pdb

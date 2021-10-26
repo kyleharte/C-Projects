@@ -1,0 +1,9 @@
+E:\Programming\SSD\C#\Numbers\bin\Debug\Numbers.exe.config
+E:\Programming\SSD\C#\Numbers\bin\Debug\Numbers.exe
+E:\Programming\SSD\C#\Numbers\bin\Debug\Numbers.pdb
+E:\Programming\SSD\C#\Numbers\obj\Debug\Numbers.Form1.resources
+E:\Programming\SSD\C#\Numbers\obj\Debug\Numbers.Properties.Resources.resources
+E:\Programming\SSD\C#\Numbers\obj\Debug\Numbers.csproj.GenerateResource.cache
+E:\Programming\SSD\C#\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+E:\Programming\SSD\C#\Numbers\obj\Debug\Numbers.exe
+E:\Programming\SSD\C#\Numbers\obj\Debug\Numbers.pdb

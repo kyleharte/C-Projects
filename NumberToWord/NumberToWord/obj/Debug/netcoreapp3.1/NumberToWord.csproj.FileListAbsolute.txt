@@ -1,0 +1,14 @@
+Z:\C#\NumberToWord\NumberToWord\bin\Debug\netcoreapp3.1\NumberToWord.exe
+Z:\C#\NumberToWord\NumberToWord\bin\Debug\netcoreapp3.1\NumberToWord.deps.json
+Z:\C#\NumberToWord\NumberToWord\bin\Debug\netcoreapp3.1\NumberToWord.runtimeconfig.json
+Z:\C#\NumberToWord\NumberToWord\bin\Debug\netcoreapp3.1\NumberToWord.runtimeconfig.dev.json
+Z:\C#\NumberToWord\NumberToWord\bin\Debug\netcoreapp3.1\NumberToWord.dll
+Z:\C#\NumberToWord\NumberToWord\bin\Debug\netcoreapp3.1\NumberToWord.pdb
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.csproj.AssemblyReference.cache
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.AssemblyInfoInputs.cache
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.AssemblyInfo.cs
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.csproj.CoreCompileInputs.cache
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.dll
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.pdb
+Z:\C#\NumberToWord\NumberToWord\obj\Debug\netcoreapp3.1\NumberToWord.genruntimeconfig.cache

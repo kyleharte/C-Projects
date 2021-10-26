@@ -1,0 +1,14 @@
+Z:\C#\NumberRange\NumberRange\bin\Debug\netcoreapp3.1\NumberRange.exe
+Z:\C#\NumberRange\NumberRange\bin\Debug\netcoreapp3.1\NumberRange.deps.json
+Z:\C#\NumberRange\NumberRange\bin\Debug\netcoreapp3.1\NumberRange.runtimeconfig.json
+Z:\C#\NumberRange\NumberRange\bin\Debug\netcoreapp3.1\NumberRange.runtimeconfig.dev.json
+Z:\C#\NumberRange\NumberRange\bin\Debug\netcoreapp3.1\NumberRange.dll
+Z:\C#\NumberRange\NumberRange\bin\Debug\netcoreapp3.1\NumberRange.pdb
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.csproj.AssemblyReference.cache
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.AssemblyInfoInputs.cache
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.AssemblyInfo.cs
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.csproj.CoreCompileInputs.cache
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.dll
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.pdb
+Z:\C#\NumberRange\NumberRange\obj\Debug\netcoreapp3.1\NumberRange.genruntimeconfig.cache

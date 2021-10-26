@@ -1,0 +1,4 @@
+D:\Programming\SSD\C#\QuizApplicationTwo\obj\Debug\QuizApplicationTwo.csproj.AssemblyReference.cache
+D:\Programming\SSD\C#\QuizApplicationTwo\obj\Debug\QuizApplicationTwo.Properties.Resources.resources
+D:\Programming\SSD\C#\QuizApplicationTwo\obj\Debug\QuizApplicationTwo.csproj.GenerateResource.cache
+D:\Programming\SSD\C#\QuizApplicationTwo\obj\Debug\QuizApplicationTwo.csproj.CoreCompileInputs.cache
