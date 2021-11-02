@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\SSD\\C#\\Events\\Events.csproj",
+      "projectUniqueName": "C:\\Users\\Development\\Source\\Repos\\C-Projects\\Events\\Events.csproj",
       "projectName": "Events",
-      "projectPath": "E:\\Programming\\SSD\\C#\\Events\\Events.csproj",
+      "projectPath": "C:\\Users\\Development\\Source\\Repos\\C-Projects\\Events\\Events.csproj",
       "packagesPath": "C:\\Users\\Development\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\SSD\\C#\\Events\\obj\\",
+      "outputPath": "C:\\Users\\Development\\Source\\Repos\\C-Projects\\Events\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Development\\AppData\\Roaming\\NuGet\\NuGet.Config",
